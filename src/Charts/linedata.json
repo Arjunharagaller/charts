@@ -1,0 +1,8 @@
+[
+    {"label":"Bills","revenu":2000,"cost":1000},
+    {"label":"Shares","revenu":2600,"cost":1400},
+    {"label":"Expences","revenu":2300,"cost":1200},
+    {"label":"Reports","revenu":2900,"cost":1900},
+    {"label":"Gadgets","revenu":2800,"cost":1600},
+    {"label":"Travel","revenu":2500,"cost":1100},
+    {"label":"Worksheet","revenu":2060,"cost":1450}]
